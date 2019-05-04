@@ -1,6 +1,6 @@
 # Course: Python for Entrepreneurs - Build your online business or product with Python
 
-[![](https://github.com/mikeckennedy/python-for-entrepreneurs-course-demos/raw/master/readme_resources/python-for-entrepreneurs.png)](https://training.talkpython.fm/courses/explore_entrepreneurs/python-for-entrepreneurs-build-and-launch-your-online-business?utm_source=github)
+[![](https://github.com/mikeckennedy/python-for-entrepreneurs-course-demos/raw/master/readme_resources/python-for-entrepreneurs.png)](https://training.talkpython.fm/courses/explore_entrepreneurs/python-for-entrepreneurs-build-and-launch-your-online-business?utm_source=github). 
 
 ## Course Summary
 
